@@ -1,1 +1,2 @@
-![Capa](https://rare-gallery.com/thumbs/1198399-black-Cowboy-Bebop-anime.png)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&synthwave=)
+
